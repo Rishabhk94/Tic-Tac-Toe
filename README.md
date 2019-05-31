@@ -16,10 +16,10 @@ make all
 ./servt -p PORTNUMBER -x
 
 ```
-4. Run the agent on same port , to play against the agent:-
+4. Run the agent file on same port , to play against the agent:-
 
 ```
-python3 -p PORTNUMBER
+python3 agent.py -p PORTNUMBER
 
 ```
 5. You can now any number ranging from 1-9 to place your move on the sub-board.
